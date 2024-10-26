@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brainybytes
+- 👀 I’m interested in Machine Learning, Big Data, Data Science, and exploring innovative ways to leverage data for meaningful insights.
+- 🌱 I’m currently learning advanced machine learning techniques, data visualization, and how to implement AI solutions effectively.
+- 💞️ I’m looking to collaborate on data-driven projects, research in machine learning, and developing user-friendly applications that make data accessible.
+- ⚡ Fun fact: I love combining my passion for data with creative storytelling through visualizations and blog writing!
